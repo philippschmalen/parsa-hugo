@@ -13,10 +13,10 @@ Anderen zu helfen, Geld nachhaltig anzulegen und dadurch Veränderung zu bewirke
 
 ## Hast du Lust mitzumachen?
 
-Wir suchen MitstreiterInnen und freuen uns über deine Nachricht. Egal aus welcher Fachrichtung, egal mit welchen Kompetenzen. Neugier und Tatendrang genügen. Zöger nicht für eine kurze Nachricht an 
+Wir suchen MitstreiterInnen und freuen uns über deine Nachricht. Egal aus welcher Fachrichtung, egal mit welchen Kompetenzen. Neugier und Tatendrang genügen. Zöger nicht für eine kurze Nachricht an
 
 ##### Info@geldmachtgruen.de
 
 ## Hej hej!
 
-![](/images/pexels-eberhard-grossgasteiger-2088167-landscape.jpg)
+![](/images/pexels-eberhard-grossgasteiger-2088203-square.jpg)
