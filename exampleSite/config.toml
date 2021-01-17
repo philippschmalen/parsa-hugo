@@ -5,17 +5,18 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Geld macht grün - Nachhaltige Finanzen"
 [[menu.main]]
-name = "Impressum"
-url = "contact"
-weight = 3
+hasChildren = true
+name = "Homepage"
+url = ""
+weight = 1
 [[menu.main]]
 name = "About"
 url = "about"
 weight = 2
 [[menu.main]]
-hasChildren = true
-name = "Homepage"
-weight = 1
+name = "Contact"
+url = "contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -33,7 +34,7 @@ layout = "1"
 logo = "/images/pastell-organic_square_twoliner_cut_50.jpg"
 mobile = "+90 000 333 22"
 preloader = true
-search = true
+search = false
 [params.cookies]
 enable = true
 expire_days = 2
