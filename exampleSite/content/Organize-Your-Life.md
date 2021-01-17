@@ -3,7 +3,7 @@ title: Denkfehler
 date: 2021-01-17T09:46:10+00:00
 description: Was in der Zukunft für uns wichtig ist, ist auch für unsere Geldanlage
   wichtig.
-type: post
+type: featured
 image: "/images/pexels-eberhard-grossgasteiger-2088203-square.jpg"
 categories:
 - Reflection
