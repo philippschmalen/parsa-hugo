@@ -5,18 +5,17 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Geld macht grün - Nachhaltige Finanzen"
 [[menu.main]]
-hasChildren = true
-name = "Homepage"
-url = ""
-weight = 1
+name = "Impressum"
+url = "contact"
+weight = 3
 [[menu.main]]
 name = "About"
 url = "about"
 weight = 2
 [[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
+hasChildren = true
+name = "Homepage"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
