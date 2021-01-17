@@ -2,12 +2,10 @@
 title: Denkfehler
 date: 2021-01-17T09:46:10+00:00
 description: This is meta description
-type: featured
+type: post
 image: "/images/pexels-eberhard-grossgasteiger-2088203-square.jpg"
 categories:
-- Insight
-- ESG
-- Valuable Idea
+- Reflection
 tags:
 - Finance
 - Investment
