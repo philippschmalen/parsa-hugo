@@ -18,3 +18,5 @@ Wir suchen MitstreiterInnen und freuen uns über deine Nachricht. Egal aus welch
 > Info@geldmachtgruen.de
 
 # Hej hej!
+
+![](/images/pexels-eberhard-grossgasteiger-2088167-landscape.jpg)
