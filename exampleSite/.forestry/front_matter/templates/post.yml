@@ -26,3 +26,4 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+  hidden: true
