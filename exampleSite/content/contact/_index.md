@@ -5,11 +5,9 @@ description: Impressum
 image: images/contact.jpg
 
 ---
-# Impressum
-
 ### Risikohinweis
 
-Du entscheidest, was du tust. Alle Inhalte auf geldmachtgruen.de dienen _ausschließlich_ der allgemeinen Information und sind zum einen ohne Gewähr und zum anderen keine Empfehlung zum Kauf oder Verkauf von Finanzprodukten. Es handelt sich _nicht_ um Anlageberatung. 
+Du entscheidest, was du tust. Alle Inhalte auf geldmachtgruen.de dienen _ausschließlich_ der allgemeinen Information und sind zum einen ohne Gewähr und zum anderen keine Empfehlung zum Kauf oder Verkauf von Finanzprodukten. Es handelt sich _nicht_ um Anlageberatung.
 
 ### Haftungsbeschränkung
 
