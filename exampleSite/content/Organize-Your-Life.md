@@ -5,11 +5,13 @@ description: This is meta description
 type: post
 image: "/images/pexels-eberhard-grossgasteiger-2088203.jpg"
 categories:
+- Insight
 - ESG
 - Valuable Idea
 tags:
 - Finance
 - Investment
+- Reflection
 
 ---
 ### Nachhaltigkeit ist Wirtschaft
