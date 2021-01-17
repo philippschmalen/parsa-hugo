@@ -10,14 +10,6 @@ name = "Homepage"
 url = ""
 weight = 1
 [[menu.main]]
-name = "Homepage 1"
-parent = "Homepage"
-url = "homepage/home-1"
-[[menu.main]]
-name = "Homepage 2"
-parent = "Homepage"
-url = "homepage/home-2"
-[[menu.main]]
 name = "About"
 url = "about"
 weight = 2
@@ -39,7 +31,7 @@ email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "images/logo1_geldmachtgruen_cut.PNG"
+logo = "/images/pastell-organic_square_twoliner_cut.jpg"
 mobile = "+90 000 333 22"
 preloader = true
 search = true
