@@ -6,7 +6,7 @@ description: Was in der Zukunft für uns wichtig ist, ist auch für unsere Gelda
 type: featured
 image: "/images/pexels-eberhard-grossgasteiger-2088203-square.jpg"
 categories:
-- Reflection
+- Reflektion
 tags:
 - Finance
 - Investment
